@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <a href="style.css"></a>
-  <title>Mon Portfolio</title>
-    
 
-<style>/* RESET */
+/* RESET */
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
@@ -118,67 +110,3 @@ body {
       opacity: 0.6;
       font-size: 0.9rem;
     }
-    </style>
-    </head>
-<body>
-
-  <header>
-    <h1>Bobinet Pierre</h1>
-    <p>SISR / Créatif / Étudiant</p>
-  </header>
-
-  <section class="about">
-    <h2>À propos de moi</h2>
-    <p>
-      Je suis moi
-      Exemple : bts sio, passionné par les jeux vidéo et ...
-    </p>
-  </section>
-
-  <section class="skills">
-    <h2>Compétences</h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>Git & GitHub</li>
-      <li>Design UI</li>
-      <li>Minecraft / Création</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Projets</h2>
-    <div class="projects">
-      <div class="project">
-        <h3>Portfolio personnel</h3>
-        <p>Mon premier portfolio hébergé sur GitHub Pages.</p>
-        <a href="#">Voir le projet</a>
-      </div>
-
-      <div class="project">
-        <h3>Projet GitHub</h3>
-        <p>Description rapide de ton projet, ce que tu as appris.</p>
-        <a href="#">Voir le repo</a>
-      </div>
-
-      <div class="project">
-        <h3>Autre projet</h3>
-        <p>Un projet créatif ou technique que tu veux montrer.</p>
-        <a href="#">Découvrir</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="contact">
-    <h2>Contact</h2>
-    <a href="mailto:pierre.bobinet17@gmail.com">Email</a>
-    <a href="https://github.com/Pierre-bobinet">GitHub</a>
-  </section>
-
-  <footer>
-    © 2025 – Bobinet Pierre | Portfolio GitHub Pages
-  </footer>
-
-</body>
-</html>
